@@ -1,0 +1,45 @@
+html {
+    background-color: lightgray;
+}
+.albuminfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+
+    background-color: whitesmoke;
+    max-width: fit-content;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    text-align: center;
+    align-items: flex-start;
+}
+
+.left img {
+    align-self: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+.right {
+    flex: 0 0 250px;
+    gap: 15px;
+    flex: 1;
+    text-align: left;
+    align-items: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
