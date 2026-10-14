@@ -1,0 +1,24 @@
+html {
+    background-color: white;
+}
+
+.header {
+    background-color: white;
+}
+
+.container {
+    background-color: whitesmoke;
+}
+
+.albums {
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+
+a {
+    color: black;
+}
+
+.viewalbum_button {
+    background-color: whitesmoke;
+}
