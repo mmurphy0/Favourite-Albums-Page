@@ -1,3 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    padding: 5px;
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+nav {
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    display: inline-block;
+    position: relative;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 25px;
+}
+
 .centrepage {
     display: flex;
     justify-content: center;
@@ -51,4 +86,14 @@ a {
 
 .title {
     width: 95%;
+}
+
+footer {
+    padding: 10px;
+}
+
+.footer_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }

@@ -58,3 +58,13 @@ a {
     padding: 5px;
     margin-bottom: 10px;
 }
+
+footer {
+    padding: 10px;
+}
+
+.footer_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

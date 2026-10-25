@@ -1,4 +1,16 @@
 html {
+    background-color: white;
+}
+
+.header {
+    background-color: white;
+}
+
+nav {
+    background-color: white;
+}
+
+body {
     background-color: whitesmoke;
 }
 
@@ -6,6 +18,14 @@ a {
     color: black;
 }
 
+a:hover {
+    background-color: lightgray;
+}
+
 .viewalbum_button {
     background-color: whitesmoke;
+}
+
+footer {
+    background-color: white;
 }
