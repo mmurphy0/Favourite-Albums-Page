@@ -1,19 +1,26 @@
+@font-face {
+    font-family: 'hubballi';
+    src: url(../../Assets/Fonts/Hubballi-Regular.ttf);
+}
+
 .header {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'hubballi';
 }
 
 nav {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'hubballi';
 }
 
 .body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'hubballi';
 }
 
 .albuminfo {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'hubballi';
+    font-size: larger;
 }
 
 footer {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'hubballi';
+    font-size: large;
 }
