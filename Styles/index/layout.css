@@ -69,6 +69,10 @@ footer {
     align-items: center;
 }
 
+.footerlink:hover {
+    text-decoration: underline;
+}
+
 .rightfooter {
     margin-top: 18px;
 }
