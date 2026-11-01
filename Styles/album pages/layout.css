@@ -29,7 +29,7 @@ li {
     position: relative;
 }
 
-a {
+.navbarlink {
     display: block;
     text-decoration: none;
     padding: 15px;
@@ -87,8 +87,13 @@ a {
     border-radius: 30px;
 }
 
-.title {
-    width: 95%;
+.applemusic {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    width:100%;
+    max-width:1060px;
+    overflow:hidden;
+    background:transparent;
+    border-radius:30px;
 }
 
 footer {
@@ -99,4 +104,16 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.footerlink:hover {
+    text-decoration: underline;
+}
+
+.leftfooter {
+    align-items: center;
+}
+
+.rightfooter {
+    text-align: right;
 }

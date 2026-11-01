@@ -10,8 +10,6 @@ nav {
     background-color: white;
 }
 
-
-
 body {
     background-color: whitesmoke;
 }
@@ -24,7 +22,7 @@ a {
     color: black;
 }
 
-a:hover {
+.navbarlink:hover {
     background-color: lightgray;
 }
 

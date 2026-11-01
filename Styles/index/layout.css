@@ -68,3 +68,7 @@ footer {
     justify-content: space-between;
     align-items: center;
 }
+
+.rightfooter {
+    margin-top: 1px;
+}
