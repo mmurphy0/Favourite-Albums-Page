@@ -24,6 +24,7 @@ a {
 
 .navbarlink:hover {
     background-color: lightgray;
+    border-radius: 15px;
 }
 
 .viewalbum_button {
