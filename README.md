@@ -48,9 +48,9 @@ I created this project to improve my web development skills and to create someth
   cd Favourite-Albums-Page
 ```
 
+### Usage
 Open the project in your preferred IDE
 
-### Usage
 You can choose from the following option
 - Open index.html in your web browser
 
@@ -60,5 +60,10 @@ You can choose from the following option
 <a href="documentation/designs.pdf">Figma Designs</a><br>
 <a href="documentation/sitemap.jpg">Sitemap Diagram</a>
 
+## Sitemap
+<img src="documentation/sitemap.jpg">
+
 ## Future Updates
 - Update the style of all album pages
+
+- Make the website more accessible 
