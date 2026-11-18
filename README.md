@@ -1,7 +1,62 @@
-## Favourite Albums Page
+# My Favourite Albums
 
-- This is a page where i am displaying my favourite albums
+## Project Overview
+I created this project to improve my web development skills and to create something which reflects my interests. It displays all my favourite albums and allows users to:
+- Display the album artwork
 
-- I am learning HTML & CSS, I am using this project to help me practice my skills
+- View the track list
 
-- More features will be coming soon
+- Listen to a preview of the album
+
+- Go to the album on Apple Music or Spotify
+
+## Screenshots
+<img src="Assets/screenshots/homepage_screenshot.jpg" width="700">
+<img src="Assets/screenshots/albumpage_screenshot.jpg" width="700">
+
+## Tech Stack
+- HTML
+
+- CSS
+
+## File Structure
+```text
+  My-Favourite-Albums/
+  ┣━ assets/
+  ┃  ┣━ fonts/
+  ┃  ┣━ icons/
+  ┃  ┣━ images/
+  ┃  ┗━ screenshots/
+  ┣━ css/
+  ┃   ┣━ index/
+  ┃   ┗━ album pages/
+  ┣━ documentation/
+  ┣━ pages/
+  ┣━ index.html
+  ┣━ README.md
+  ┗━ .gitignore
+
+```
+
+## Installation & Usage
+### Clone the Repository
+```bash
+  git clone https://github.com/mmurphy0/Favourite-Albums-Page.git
+```
+### Navigate to the project folder
+```bash
+  cd Favourite-Albums-Page
+```
+
+Open the project in your preferred IDE
+
+### Usage
+You can choose from the following option
+- Open index.html in your web browser
+
+- Install the live server extension on Visual Studio Code
+
+## Documentation
+
+## Future Updates
+- Update the style of all album pages
