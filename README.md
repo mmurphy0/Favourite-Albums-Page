@@ -57,6 +57,8 @@ You can choose from the following option
 - Install the live server extension on Visual Studio Code
 
 ## Documentation
+<a href="documentation/designs.pdf">Figma Designs</a><br>
+<a href="documentation/sitemap.jpg">Sitemap Diagram</a>
 
 ## Future Updates
 - Update the style of all album pages
